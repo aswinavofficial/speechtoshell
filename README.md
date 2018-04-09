@@ -1,6 +1,6 @@
 # SpeechToShell
 
-SpeechToShell uses a speech to text convertor to convert your speech to Linux commands.Then it send the command to my server and execute them. Print the output back on the client
+SpeechToShell uses a speech to text convertor to convert your speech to Linux commands.Then it send the command to the server and execute them. Print the output back on the client
 
 ## Getting Started
 
