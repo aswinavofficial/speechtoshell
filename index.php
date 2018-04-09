@@ -5,7 +5,7 @@
         <title>Speech To Shell</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shoelace-css/1.0.0-beta16/shoelace.css">
+
 </head>
 <body>
 
