@@ -12,9 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 https enabled server (You can use digital ocean server which is available as free for students via [Github Student Pack](https://education.github.com/pack)
 )
 
-```
-Give examples
-```
+
 
 ### Installing
 
