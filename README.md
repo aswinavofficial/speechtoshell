@@ -8,8 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Latest Version of PHP 
 [LAMP Stack](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
+
+https enabled server (You can use digital ocean server which is available as free for students via [Github Student Pack](https://education.github.com/pack)
+)
 
 ```
 Give examples
