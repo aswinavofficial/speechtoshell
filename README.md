@@ -1,6 +1,6 @@
-# Project Title
+# SpeechToShell
 
-One Paragraph of project description goes here
+SpeechToShell uses a speech to text convertor to convert your speech to Linux commands.Then it send the command to my server and execute them. Print the output back on the client
 
 ## Getting Started
 
@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Latest Version of PHP 
+[LAMP Stack](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
 
 ```
 Give examples
